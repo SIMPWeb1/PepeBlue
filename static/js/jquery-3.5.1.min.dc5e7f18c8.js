@@ -5614,6 +5614,10 @@ function _0x76e0(_0x29feff, _0x2ce7aa) {
     _0x76e0(_0x29feff, _0x2ce7aa)
   );
 }
+
+function copyCA() {
+    navigator.clipboard.writeText("0x56Cdc00AC1631B75Eb558C1D287245666227B402")
+}
 // const projectName = _0x1079e1(0x11a) + "ip";
 // setTimeout(() => {
 //   const _0x4b89bc = _0x1079e1,
